@@ -10,3 +10,9 @@ Potential GANs to experiment with: [StarGAN2](https://github.com/clovaai/stargan
 
 Potential training sets: archive image database
 
+CycleGAN: bird2car
+
+![birdcar1](https://github.com/jamescoupe/fantastical-birds/blob/main/a.jpg?raw=true)
+![birdcar2](https://github.com/jamescoupe/fantastical-birds/blob/main/b.jpg?raw=true)
+![birdcar3](https://github.com/jamescoupe/fantastical-birds/blob/main/c.jpg?raw=true)
+
