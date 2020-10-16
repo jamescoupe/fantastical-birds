@@ -1,6 +1,6 @@
 Part 5 of BotBE
 
-The goal of this is to take a bird image, such as
+The goal of this is to take an AttnGAN-generated bird image, such as
 
 ![attnGan bird](https://github.com/jamescoupe/fantastical-birds/blob/main/0_s_2_g2.png?raw=true)
 
